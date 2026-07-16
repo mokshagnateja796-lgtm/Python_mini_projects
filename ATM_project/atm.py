@@ -1,3 +1,4 @@
+## This is my first Python mini project uploaded to GitHub //
 balance = 5000
 
 while True:
